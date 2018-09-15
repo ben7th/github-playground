@@ -20,7 +20,7 @@ AGENDA: >
 
   专项|推动者
   -|-
-  ${project_str1}
+  <%= projectsMarkdown %>
 
   ------
 
