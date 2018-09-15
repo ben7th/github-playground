@@ -1,4 +1,4 @@
-ISSUE_BODY: >
+ISSUE_BODY: |
   > 此 issue 由机器人自动发送
 
   时间：21:00
@@ -13,7 +13,7 @@ LABELS:
   - 周会
   
 # 议程安排
-AGENDA: >
+AGENDA: |
   ### 议程安排
 
   环节一：专项工作协调沟通
