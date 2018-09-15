@@ -41,6 +41,8 @@ PROJECTS:
     mc: fushang318
   - name: 小程序 1.11.0
     mc: zhaobinglong
+  - name: 小程序设计迭代
+    mc: nancy919
   - name: 数据分析统计
     mc: bqx619
   - name: token 与奖励模型
