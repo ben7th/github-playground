@@ -32,3 +32,22 @@ AGENDA: |
   提案|链接
   -|-
   ..|.. 
+
+# 专项
+PROJECTS:
+  - name: 后端优化
+    mc: sinchb
+  - name: 运维与后台
+    mc: fushang318
+  - name: 小程序 1.11.0
+    mc: zhaobinglong
+  - name: 数据分析统计
+    mc: bqx619
+  - name: token 与奖励模型
+    mc: ben7th
+  - name: MRI 增强开发
+    mc: ben7th
+  - name: 开发者社区推动
+    mc: ben7th
+  - name: 健康专家与用户社区推动
+    mc: fazhen
