@@ -11,3 +11,24 @@ ISSUE_BODY: >
 
 LABELS:
   - 周会
+  
+# 议程安排
+AGENDA: >
+  ### 议程安排
+
+  环节一：专项工作协调沟通
+
+  专项|推动者
+  -|-
+  ${project_str1}
+
+  ------
+
+  环节二：提案讨论（未讨论则顺延）
+
+  提案汇总链接：
+  https://github.com/sibbay-ai/cooperation-issues/wiki/proposals-list
+
+  提案|链接
+  -|-
+  ..|.. 
