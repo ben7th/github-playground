@@ -1,0 +1,12 @@
+# 早会标签
+MEETING_LABEL: 早会
+
+# 过期 issue 标签
+SLATE_LABEL: 过期
+
+# 汇总后的留言
+COLLECT_COMMENT: |
+  这些 issue 好久没有回复了，建议大家花一些时间处理鸭~
+
+# 汇总时取多少个 issue
+SLATE_EARLIEST_COUNT: 6
